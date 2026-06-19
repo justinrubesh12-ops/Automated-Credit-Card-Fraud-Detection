@@ -3,6 +3,6 @@ pandas
 numpy
 scikit-learn
 joblib
-lightgbm
 catboost
-xgboost
+lightgbm
+plotly
