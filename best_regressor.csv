@@ -1,0 +1,2 @@
+model,mae,mse,rmse,r2
+gradient boost regressor,33.1694,8533.1577,92.3751,0.9028196147672569

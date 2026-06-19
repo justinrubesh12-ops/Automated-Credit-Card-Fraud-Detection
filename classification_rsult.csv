@@ -1,0 +1,7 @@
+model,score,precision,recall,f1
+random forest classifier,0.988,0.976,0.89,0.931
+extra forest classifier,0.988,0.976,0.89,0.931
+gradient boost classifier,0.985,0.952,0.879,0.914
+Ada boost classifier,0.982,0.94,0.857,0.897
+light boost classifier,0.987,0.953,0.901,0.927
+cat boost classifier ,0.987,0.976,0.879,0.925
